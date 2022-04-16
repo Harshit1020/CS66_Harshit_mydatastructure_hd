@@ -1,2 +1,2 @@
 # CS66_Harshit_mydatastructure_hd
-All_Data_Structure_in_one_program_in_c_programing
+All Data Structure_in_one_program_in c programing
